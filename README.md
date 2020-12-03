@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[Anurag's github stats](github-readme-stats-ssggoku.vercel.app/api?username=ssgbGoku)
+![Anurag's github stats](https://github-readme-stats-ssggoku.vercel.app/api?username=ssgbGoku)
